@@ -13,7 +13,7 @@ Altere o arquivo `server\config\database.js` de acordo com seu banco de dados
 yarn sequelize db:migrate
 yarn dev
 ```
-## Como rodar frontend do Python
+## Como rodar o frontend do Python
 
 Altere o arquivo `client/client.py` de acordo com suas necessidades
 ```
